@@ -2,5 +2,5 @@
 
 ## Description
 
-##App for collecting stories
+App for collecting stories
 
